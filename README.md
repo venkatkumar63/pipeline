@@ -1,4 +1,3 @@
-# pipeline
 # CI/CD Pipeline with AWS CodePipeline, CodeBuild, and CodeDeploy
 
 ## Project Overview
